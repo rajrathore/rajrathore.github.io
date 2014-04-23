@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Raj Rathore]]></title>
-  <link href="http://rajrathore.github.io/atom.xml" rel="self"/>
-  <link href="http://rajrathore.github.io/"/>
-  <updated>2014-04-23T14:27:50+05:30</updated>
-  <id>http://rajrathore.github.io/</id>
+  <link href="http://www.rajrathore.com/atom.xml" rel="self"/>
+  <link href="http://www.rajrathore.com/"/>
+  <updated>2014-04-23T14:43:25+05:30</updated>
+  <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why I Voted for Narendra Modi?]]></title>
-    <link href="http://rajrathore.github.io/why-i-voted-for-narendra-modi/"/>
+    <link href="http://www.rajrathore.com/why-i-voted-for-narendra-modi/"/>
     <updated>2014-04-22T17:30:17+05:30</updated>
-    <id>http://rajrathore.github.io/why-i-voted-for-narendra-modi</id>
+    <id>http://www.rajrathore.com/why-i-voted-for-narendra-modi</id>
     <content type="html"><![CDATA[<p>It&rsquo;s election time in India and I did cast my vote on April 17 ( 3 days after my birthday ) and there are plenty who have opinion about Indian youth that &ldquo;Younger generation doesn&rsquo;t understand politics much&rdquo;</p>
 
 <p>I may or your may not understand politics much but I think that politicians&#8217; speeches and work should be considered as their examination copies.</p>
