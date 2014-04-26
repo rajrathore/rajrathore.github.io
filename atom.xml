@@ -4,7 +4,7 @@
   <title><![CDATA[Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-04-26T09:13:41+05:30</updated>
+  <updated>2014-04-26T10:48:20+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -12,6 +12,64 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Localhost Tunneling, Working With Facebook Open Graph]]></title>
+    <link href="http://www.rajrathore.com/localhost-tunneling-working-with-facebook-open-graph/"/>
+    <updated>2014-04-26T09:39:18+05:30</updated>
+    <id>http://www.rajrathore.com/localhost-tunneling-working-with-facebook-open-graph</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m currently developing an app which uses facebook Open graph API. Using localhost works fine with facebook authentication but when you want to use graph api then facebook needs access to the webpage, so that it can parse open graph meta tags.</p>
+
+<!-- more -->
+
+
+<p>The solution to this problem is either deploy your app online or allow localhost tunneling so that facebook can access it. I prefer localhost tunneling when working in my development environment.</p>
+
+<p><span class='pullquote-right' data-pullquote='ngrok securely exposes a local web server to the internet and capture all traffic for detailed inspection and replay'>
+I used <a href="https://ngrok.com/"><strong>ngrok</strong></a>. ngrok securely exposes a local web server to the internet and capture all traffic for detailed inspection and replay&#8221; and it worked well with facebook.
+</span>
+<strong>ngrok</strong> is easy to use and it takes just 2 minutes to signup and expose your webserver. Sign up is not required but it doesn&rsquo;t take much time so I did.</p>
+
+<h2>Steps</h2>
+
+<h3>1. Download ngrok</h3>
+
+<p>I downloaded ngrok on my mac but it&rsquo;s available for windows and linux as well. it&rsquo;s just a small zip file, just takes few seconds to download.</p>
+
+<h3>2. unzip it</h3>
+
+<pre><code>unzip /path/to/ngrok.zip
+</code></pre>
+
+<h3>3. Run it</h3>
+
+<pre><code>ngrok -authtoken your_auth_token port
+</code></pre>
+
+<p>in above command <strong>your_auth_token</strong> is your authentication token and <strong>port</strong> is the port which you want to expose.</p>
+
+<figure class='code'><figcaption><span>ngrok</span><a href='https://ngrok.com/'>link </a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="no">Tunnel</span> <span class="no">Status</span>                 <span class="n">online</span>
+</span><span class='line'><span class="no">Version</span>                       <span class="mi">1</span><span class="o">.</span><span class="mi">6</span><span class="o">/</span><span class="mi">1</span><span class="o">.</span><span class="mi">5</span>
+</span><span class='line'><span class="no">Forwarding</span>                    <span class="ss">http</span><span class="p">:</span><span class="sr">//</span><span class="mi">9</span><span class="n">d322c2</span><span class="o">.</span><span class="n">ngrok</span><span class="o">.</span><span class="n">com</span> <span class="o">-&gt;</span> <span class="mi">127</span><span class="o">.</span><span class="mi">0</span><span class="o">.</span><span class="mi">0</span><span class="o">.</span><span class="mi">1</span><span class="p">:</span><span class="mi">80</span>
+</span><span class='line'><span class="no">Forwarding</span>                    <span class="ss">https</span><span class="p">:</span><span class="sr">//</span><span class="mi">9</span><span class="n">d322c2</span><span class="o">.</span><span class="n">ngrok</span><span class="o">.</span><span class="n">com</span> <span class="o">-&gt;</span> <span class="mi">127</span><span class="o">.</span><span class="mi">0</span><span class="o">.</span><span class="mi">0</span><span class="o">.</span><span class="mi">1</span><span class="p">:</span><span class="mi">80</span>
+</span><span class='line'><span class="no">Web</span> <span class="no">Interface</span>                 <span class="mi">127</span><span class="o">.</span><span class="mi">0</span><span class="o">.</span><span class="mi">0</span><span class="o">.</span><span class="mi">1</span><span class="p">:</span><span class="mi">4040</span>
+</span><span class='line'><span class="c1"># Conn                        0</span>
+</span><span class='line'><span class="no">Avg</span> <span class="no">Conn</span> <span class="no">Time</span>                 <span class="mi">0</span><span class="o">.</span><span class="mo">00</span><span class="n">ms</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>where <a href="http://9d322c2.ngrok.com">http://9d322c2.ngrok.com</a> is the url which you can use to access your local web server. I have closed this tunnel, So you won&rsquo;t able to access this url, it&rsquo;s just for example purpose here.</p>
+
+<p>Thanks for reading.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[What Happened to Indian TV Shows?]]></title>
