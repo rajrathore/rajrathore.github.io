@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Personal | Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-05-17T10:43:06+05:30</updated>
+  <updated>2014-05-17T10:46:06+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -74,7 +74,7 @@ Query Ok, Very few results returned, I think you are probably one of them.</p>
 <p>Your family is not going to find somebody like me for you, lets see the sql</p>
 
 <p><code>sql query to find suitable groom
-sql&gt; SELECT * from boys WHERE boy_is_Rajput = 'true' AND intelligent = 'true' AND successful = 'true' AND good_looking_and_has_fair_complexion = 'true' AND understanding = 'true' AND has_good_character = 'true' AND sober = 'true' AND honest = 'true' AND caring = 'true' AND calm = 'true' AND sensible = 'true' AND innocent = 'true' AND Manglik = 'true' AND has_no_dowry_demands = 'true' AND has_a_good_heart = 'true' AND creative = 'true' AND horoscope_match = 'true'
+sql&gt; SELECT * from boys WHERE boy_is_Rajput = 'true' AND intelligent = 'true' AND successful = 'true' AND good_looking_and_has_fair_complexion = 'true' AND understanding = 'true' AND has_good_character = 'true' AND sober = 'true' AND honest = 'true' AND caring = 'true' AND calm = 'true' AND sensible = 'true' AND innocent = 'true' AND Manglik = 'true' AND has_no_dowry_demands = 'true' AND has_a_good_heart = 'true' AND creative = 'true' AND horoscope_match = 'true' AND good_family = 'true'
 </code>
 Query Ok, 1 result returned(that’s me), blowing my own trumpet :) but its all true.</p>
 
