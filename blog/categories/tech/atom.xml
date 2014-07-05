@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tech | Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-05-21T11:11:17+05:30</updated>
+  <updated>2014-07-05T09:51:18+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Renew/Update Heroku SSL Certificate Issued by Godaddy]]></title>
+    <link href="http://www.rajrathore.com/renew-heroku-ssl-certificate-issued-by-godaddy/"/>
+    <updated>2014-07-05T09:16:32+05:30</updated>
+    <id>http://www.rajrathore.com/renew-heroku-ssl-certificate-issued-by-godaddy</id>
+    <content type="html"><![CDATA[<p>I recently renewed my ssl cert for heroku hosted domain registered at godaddy. This post is a how to Guide for renewing/updating SSL Certificate issued by godaddy for heroku hosted domain without changing dns and keeping old ssl endpoint url. I hope it&rsquo;ll help somebody.</p>
+
+<!-- more -->
+
+
+<h3>Step 1: Renew Godaddy certificate</h3>
+
+<p>Apply renewal credit at godaddy and use the previous certificate signing request(csr), selecting option of third party hosted domain and submit.</p>
+
+<h3>Step 2: Download Certificates Zip and Combine Certs</h3>
+
+<p>After the certificate has been issued by godaddy, download certs for &lsquo;Nginx&rsquo; server. unzip the zipped file, cd into directory, and combine certificates.</p>
+
+<p><code>ruby
+cat 48bcdx31xxxx.crt sf_bundle-g2-g1.crt &gt; combined.crt
+</code></p>
+
+<h3>Step 3: Update Certificate at Heroku SSL Endpoint</h3>
+
+<p>run certificate update command</p>
+
+<p><code>ruby
+heroku certs:update combined.crt server.key
+</code></p>
+
+<p>Confirm the changes by typing app_name.</p>
+
+<h3>Step 4: Check Certificate Info</h3>
+
+<p><code>ruby
+heroku certs:info --app=app_name
+</code></p>
+
+<h3>Step 5: Done!</h3>
+
+<p>Done! and after few seconds app is running on previous ssl endpoint url. So, No need to update dns.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Localhost Tunneling, Working With Facebook Open Graph]]></title>
