@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Fun | Raj Rathore]]></title>
+  <link href="http://www.rajrathore.com/blog/categories/fun/atom.xml" rel="self"/>
+  <link href="http://www.rajrathore.com/"/>
+  <updated>2014-07-08T12:16:52+05:30</updated>
+  <id>http://www.rajrathore.com/</id>
+  <author>
+    <name><![CDATA[Raj Rathore]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Uncertain Observer]]></title>
+    <link href="http://www.rajrathore.com/uncertain-observer/"/>
+    <updated>2014-07-08T12:04:54+05:30</updated>
+    <id>http://www.rajrathore.com/uncertain-observer</id>
+    <content type="html"><![CDATA[<p><strong>Heisenberg</strong> and <strong>Schrödinger</strong> get pulled over for speeding. <br/>
+The cop asks Heisenberg &ldquo;Do you know how fast you were going?"<br/>
+Heisenberg replies, "No, but we know exactly where we are!"<br/>
+The officer looks at him confused and says "you were going 108 miles per hour!"<br/>
+Heisenberg throws his arms up and cries, "Great! Now we&rsquo;re lost!"<br/>
+The officer looks over the car and asks Schrödinger if the two men have anything in the trunk.<br/>
+"A cat,&rdquo; Schrödinger replies. <br/>
+The cop opens the trunk and yells &ldquo;Hey! This cat is dead."<br/>
+Schrödinger angrily replies, "Well he is now.&rdquo;</p>
+
+<!-- more -->
+
+
+<p>[Explaination: <strong>Schrödinger&rsquo;s</strong> cat is a thought experiment, sometimes described as a paradox, devised by Austrian physicist Erwin Schrödinger in 1935. It illustrates what he saw as the problem of the Copenhagen interpretation of quantum mechanics applied to everyday objects. The scenario presents a cat that may be both alive and dead, this state being tied to an earlier random event. Although the original &ldquo;experiment&rdquo; was imaginary, similar principles have been researched and used in practical applications.[citation needed] The thought experiment is also often featured in theoretical discussions of the interpretations of quantum mechanics. In the course of developing this experiment, Schrödinger coined the term Verschränkung (entanglement).</p>
+
+<p>In quantum mechanics, the <strong>uncertainty principle</strong> is any of a variety of mathematical inequalities asserting a fundamental limit to the precision with which certain pairs of physical properties of a particle known as complementary variables
+]</p>
+]]></content>
+  </entry>
+  
+</feed>
