@@ -2,7 +2,9 @@
 <!DOCTYPE html>
 <!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
 <!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+<html class="no-js" lang="en-US" itemscope itemtype="http://schema.org/WebPage">
+<!--<![endif]-->
 <!DOCTYPE html>
 <!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
 <!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
@@ -48,16 +50,16 @@
 
   <body>
     <a href="/" class="home-icon">
-      <img src="/images/home.png"/>
+      <img src="/images/home.png" alt="logo"/>
     </a>
 
-    <article role="article" class="full-single-article">
+    <article role="article" class="full-single-article" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
-        <h1>Localhost Tunneling, Working With Facebook Open Graph</h1>
+        <h1 itemprop="name headline">Localhost Tunneling, Working With Facebook Open Graph</h1>
         <div class="meta">
-          written 
+          written by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Raj Rathore</span></span> on  
 
 
 
@@ -70,7 +72,7 @@
 
 
 
-<time datetime="2014-04-26T09:39:18+05:30" pubdate data-updated="true">Apr 26<span>th</span>, 2014</time> in
+<time datetime="2014-04-26T09:39:18+05:30" itemprop="datePublished" pubdate data-updated="true">Apr 26<span>th</span>, 2014</time> in
           
 
 
@@ -90,7 +92,8 @@
 	<div class="plusone" title="Share link on Google+">Google+</div>
 </div>
 
-         
+        
+        <div itemprop="articleBody"> 
         <p>I&rsquo;m currently developing an app which uses facebook Open graph API. Using localhost works fine with facebook authentication but when you want to use graph api then facebook needs access to the webpage, so that it can parse open graph meta tags.</p>
 
 <!-- more -->
@@ -142,6 +145,7 @@ I use <a href="https://ngrok.com/"><strong>ngrok</strong></a>. ngrok securely ex
 
 <p>Thanks for reading.</p>
 
+        </div>
       </div>
     </div>
   </div>
