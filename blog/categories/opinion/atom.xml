@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Opinion | Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/blog/categories/opinion/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-07-26T17:00:49+05:30</updated>
+  <updated>2014-07-26T17:01:35+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -34,8 +34,8 @@ Instead higher or form a team of good programmers or hackers to do the job.</p>
 
 <p>This Idea of listening public opinion is nice but implementation sucks&hellip; that is my first opinion. And I had express this opinion on my own blog instead of expressing it on <strong>MyGov</strong> website because I couldn&rsquo;t log in.</p>
 
-<p>“A great lathe operator commands several times the wage of an average lathe operator, but a great writer of software code is worth 10,000 times the price of an average software writer.”
-— Bill Gates</p>
+<blockquote><p>“A great lathe operator commands several times the wage of an average lathe operator, but a great writer of software code is worth 10,000 times the price of an average software writer.”
+— Bill Gates</p></blockquote>
 
 <p>My advice to developer team of MyGov website: Remove that captcha from signup page. It&rsquo;s very irritating. It gives a pseudo feeling of security and make people fake believe in security when there is none. Your website is not even using SSL.</p>
 
