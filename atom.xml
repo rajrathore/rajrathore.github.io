@@ -4,7 +4,7 @@
   <title><![CDATA[Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-07-10T16:29:41+05:30</updated>
+  <updated>2014-07-26T17:00:49+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+    
+  <entry>
+    <title type="html"><![CDATA[MyGov: Nice Initiative but Implementation Sucks!]]></title>
+    <link href="http://www.rajrathore.com/mygov-nice-initiative-but-implementation-sucks/"/>
+    <updated>2014-07-26T16:12:45+05:30</updated>
+    <id>http://www.rajrathore.com/mygov-nice-initiative-but-implementation-sucks</id>
+    <content type="html"><![CDATA[<p>Just had a look at <a href="http://mygov.nic.in" title="MyGov">MyGov</a> website, an initiative by <strong>Narendra Modi﻿</strong>. Website looks nice.. and I was surprised. Because we know how govt websites generally look like.</p>
+
+<p>This website doesn&rsquo;t look like a govt website until you try to use it ;)</p>
+
+<!-- more -->
+
+
+<p>And that&rsquo;s it. You can&rsquo;t signup or sign in. Webpage hangs and slow <strong>server response time</strong>(1.1 seconds), <strong>pageload speed</strong> varies from 5 sec to 60 seconds(<strong>12 seconds</strong> being average). References to the tests are given below this post.</p>
+
+<p>Accidently when you do get successful signup, mail arrives in your spam folder.. Again a hallmark of govt websites and govt professionals. So it proves that it indeed is a govt website&hellip; You can be sure that you are indeed on a govt. website.</p>
+
+<p>My recommendation is Never rely on govt professionals or even big companies for important projects unless it&rsquo;s unimportant.
+Instead higher or form a team of good programmers or hackers to do the job.</p>
+
+<p>This Idea of listening public opinion is nice but implementation sucks&hellip; that is my first opinion. And I had express this opinion on my own blog instead of expressing it on <strong>MyGov</strong> website because I couldn&rsquo;t log in.</p>
+
+<p>“A great lathe operator commands several times the wage of an average lathe operator, but a great writer of software code is worth 10,000 times the price of an average software writer.”
+— Bill Gates</p>
+
+<p>My advice to developer team of MyGov website: Remove that captcha from signup page. It&rsquo;s very irritating. It gives a pseudo feeling of security and make people fake believe in security when there is none. Your website is not even using SSL.</p>
+
+<p><strong>The website is not even usable forget about security.</strong></p>
+
+<p>It should be easy to login. Improve code. There is no need to be too much focused on security and doing silly things. Images are good and Idea of listening to public opinion is nice. Language used on website is nice and friendly. But Technically it sucks. Make it usable.</p>
+
+<blockquote><p>&#8220;It is amazing how much can be accomplished if no one cares who gets the credit.&#8221;</p><footer><strong>John Wooden</strong></footer></blockquote>
+
+
+<p>Thanks!</p>
+
+<h3>References</h3>
+
+<ol>
+<li>Page load speed and analysis of MyGov.in by <a href="gtmetrix.com/reports/mygov.nic.in/QXlKHu3b">gtmetrix</a></li>
+<li>Page Load speed and analysis of MyGov.in by <a href="http://tools.pingdom.com/fpt/#!/bqA8wx/mygov.nic.in">Pingdom</a></li>
+</ol>
+
+]]></content>
+  </entry>
+    
   
     
   <entry>
