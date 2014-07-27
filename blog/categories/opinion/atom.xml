@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Opinion | Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/blog/categories/opinion/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-07-27T11:05:14+05:30</updated>
+  <updated>2014-07-27T11:06:47+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -20,12 +20,13 @@
     <id>http://www.rajrathore.com/mygov-nice-initiative-but-implementation-sucks</id>
     <content type="html"><![CDATA[<p>Just had a look at <a href="http://mygov.nic.in" title="MyGov">MyGov</a> website, an initiative by <strong>Narendra Modi﻿</strong>. Website looks nice.. and I was surprised. Because we know how govt websites generally look like.</p>
 
-<p>This website doesn&rsquo;t look like a govt website until you try to use it ;)</p>
+<p>This website doesn&rsquo;t look like a govt website until you try to use it ;)
+It&rsquo;s full of flaws and idiotic mistakes&hellip; this is a very polite review of the website <strong>MyGov</strong>.</p>
 
 <!-- more -->
 
 
-<p>And that&rsquo;s it. You can&rsquo;t signup or sign in. Webpage hangs and slow <strong>server response time</strong>(1.1 seconds), <strong>pageload speed</strong> varies from 5 sec to 60 seconds(<strong>12 seconds</strong> being average). References to the tests are given below this post.</p>
+<p>You can&rsquo;t signup or sign in. Webpage hangs and slow <strong>server response time</strong>(1.1 seconds), <strong>pageload speed</strong> varies from 5 sec to 60 seconds(<strong>12 seconds</strong> being average). References to the tests are given below this post.</p>
 
 <p>Accidently when you do get successful signup, mail arrives in your spam folder.. Again a hallmark of govt websites and govt professionals. So it proves that it indeed is a govt website&hellip; You can be sure that you are indeed on a govt. website.</p>
 
