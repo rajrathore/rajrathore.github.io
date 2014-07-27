@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Opinion | Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/blog/categories/opinion/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-07-27T10:56:46+05:30</updated>
+  <updated>2014-07-27T11:05:14+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -38,7 +38,7 @@
 
 <p>MyGov dev team needs few such developers who challenge themselves and are exceptionally good. Most govt. professional just to what they must do and not what they should do. Ultimately they end up doing things which they shouldn&rsquo;t do. For example, what is the use of captcha when you can&rsquo;t even implement it well and user can&rsquo;t even signup. Internet connection in India is patchy, they should try to keep the webpage size under few kbs. If this website is intended to be used by public on regular basis then they should&rsquo;ve atleast optimized the website before lauching it.</p>
 
-<p>My advice to developer team of MyGov website: Remove that captcha from signup page. It&rsquo;s very irritating. It gives a pseudo feeling of security and make people fake believe in security when there is none. Your website is not even using SSL. Optimize your website improve your code. And try to hire few exceptionally good programmers to do the job and not the army of incompetent programmers.</p>
+<p>My advice to developer team of MyGov website: Remove that captcha from signup page. It&rsquo;s very irritating. Also you are asking users to choose a password which has special characters, numbers, capital and small letters&hellip; it&rsquo;s idiotic. It gives a pseudo feeling of security and make people fake believe in security when there is none. Your website is not even using SSL. I&rsquo;m afraid that on this website users' information is not safe. Optimize your website, improve your code. And try to hire few exceptionally good programmers to do the job and not the army of incompetent programmers.</p>
 
 <p><strong>The website is not even usable forget about security.</strong></p>
 
