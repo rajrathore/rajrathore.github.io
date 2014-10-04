@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Personal | Raj Rathore]]></title>
+  <title><![CDATA[Category: Personal, | Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-08-03T11:11:22+05:30</updated>
+  <updated>2014-10-04T13:14:25+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -16,189 +16,16 @@
   <entry>
     <title type="html"><![CDATA[DROP TABLE Doubts; Clearing Out All the Misunderstandings]]></title>
     <link href="http://www.rajrathore.com/drop-table-doubts/"/>
-    <updated>2014-05-15T17:39:59+05:30</updated>
+    <updated>2014-07-08T12:04:54+05:30</updated>
     <id>http://www.rajrathore.com/drop-table-doubts</id>
     <content type="html"><![CDATA[<ul>
 <li>[Note: This post is only accessible to the people who know direct url to this post, that&rsquo;s only you,  and it&rsquo;s non indexable in Google and not listed in this blog&rsquo;s archive or linked anywhere]</li>
 </ul>
 
 
-<p>I hope this post will clear out all the misunderstandings you or your family have about me. I think chats and any textual conversation can create misunderstandings than resolving it. But still it&rsquo;s better than no conversation and letting people believe false things and assumptions.</p>
+<p><strong>Update:</strong> Analytics data shows that you&rsquo;ve visited this page and read this post a few times and may have forwarded it. And considering the personal nature of this post, I&rsquo;m removing this post&rsquo;s content.</p>
 
-<p><blockquote><p>&ldquo;Freethinkers are those who are willing to use their minds without prejudice and without fearing to understand things that clash with their own customs, privileges, or beliefs. This state of mind is not common, but it is essential for right thinking&hellip;&rdquo;</p><footer><strong>Leo Tolstoy</strong></footer></blockquote></p>
-
-<h3>#1. Knocking out doubts regarding my education</h3>
-
-<p>Even though I&rsquo;ve sent you <strong>my 10th semester marksheet</strong> in my last email to your sister&rsquo;s email id, there&rsquo;s a still a slight possibility that you/your family keep on underestimating my education. <strong>Many of my seniors and my batch-mates and even juniors are entrepreneurs and have their own startups and are doing great</strong>.</p>
-
-<p><blockquote><p>If you don’t build your dream, someone else will hire you to help them build theirs.</p><footer><strong>Dhirubhai Ambani</strong></footer></blockquote></p>
-
-<p>Very few students from my institute are working for some company, because most are making unique career choices. And many CCTians are doing their Doctoral Thesis in IITs. <strong>News papers and electronic media</strong> have noticed their efforts. And many have been featured in news papers for their good work.</p>
-
-<p>Following is the image of my senior at CCT, Sachhin Dubey giving interview to CNN-IBN. His startup is <strong>Module innovations</strong>. He is in my facebook-friends list, search &ldquo;Dubey&rdquo;.</p>
-
-<p><img src="/images/posts/sachhin-dubey-cct.jpg" width="800" height="300" title="&lsquo;Sachhin Dubey, Module Innovations&rsquo; &lsquo;Sachin Dubey, Module Innovations&rsquo;" ></p>
-
-<p>So I hope you have no remaining doubts on my education.</p>
-
-<h3>#2. Knocking out doubts about my income</h3>
-
-<p>Since your family is unsure about my earnings, <strong>I’m including my FIRC(Foreign Inward Remittance Certificate) of my previous month’s income which my bank provided to me in this post</strong>.</p>
-
-<p><img src="/images/posts/foriegn_inward_remittance.jpg" width="800" height="300" title="&lsquo;Dena Bank, Foreign inward remittance advice, Raj Singh Rathore&rsquo; &lsquo;Dena Bank, Foreign inward remittance advice, Raj Singh Rathore&rsquo;" ></p>
-
-<p><strong>It’s a receipt of USD 5743.40 i.e., 349658.00/&ndash; INR credited into my account for my last month’s earnings.</strong></p>
-
-<p>If someone still don’t believe then I believe it shows very high level of insecurities and distrust in people. And it’s the right time to pause and reflect on things.</p>
-
-<p>And I just find out that <strong>your relative(I think he is your fufosa) and my fufusa knew each other and had some sort of issue or something similar in the past</strong>, your relative wanted to marry his relative’s girl with my fufosa’s elder brother’s son. And they said no because of the height of the girl as the biy is six feet tall. I don’t know if that’s any issue. Thought I should mention.</p>
-
-<h3>Why am I giving importance to you?</h3>
-
-<p>Good question. To understand that lets come to my criteria for selection for suitable life partner</p>
-
-<p>``` sql query to find suitable bride</p>
-
-<p>sql>  SELECT * FROM girls WHERE girl_is_Rajput = &lsquo;true&rsquo; AND beautiful = &lsquo;true&rsquo; AND intelligent = &lsquo;true&rsquo; AND has_good_nature = &lsquo;true&rsquo; AND younger_than_me_by_atleast_3_years = &lsquo;true&rsquo;
-AND has_similar_interests_or_field_of_work = &lsquo;true&rsquo; AND horoscope_match = &lsquo;true&rsquo;</p>
-
-<p>```
-Query Ok, Very few results returned, I think you are probably one of them.</p>
-
-<p>[Criteria of age is there because I look younger than my age, If I marry someone of my age she’ll look older than me. Who wants to look older anyway. I look younger and it&rsquo;s a good thing.]</p>
-
-<p>Your family is not going to find somebody like me for you, lets see the sql</p>
-
-<p><code>sql query to find suitable groom
-sql&gt; SELECT * from boys WHERE boy_is_Rajput = 'true' AND intelligent = 'true' AND successful = 'true' AND good_looking_and_has_fair_complexion = 'true' AND understanding = 'true' AND has_good_character = 'true' AND sober = 'true' AND honest = 'true' AND caring = 'true' AND calm = 'true' AND sensible = 'true' AND innocent = 'true' AND Manglik = 'true' AND has_no_dowry_demands = 'true' AND has_a_good_heart = 'true' AND creative = 'true' AND horoscope_match = 'true' AND good_family = 'true'
-</code>
-Query Ok, 1 result returned(that’s me), blowing my own trumpet :) but its all true.</p>
-
-<p>[I don&rsquo;t want dowry because I&rsquo;m intellectually and creatively capable enough to achieve what I want in life. And confident enought to be what I want to be. And fearless enough to say what I feel]</p>
-
-<p>If you think that that the above sql query will return more results, then consider a sample size of your class at <strong>Sir MVIT</strong> and query the database based on above characteristics and you’ll find that I’m indeed right :)</p>
-
-<p>Even if you think it is possible that there are such guys, chances of your family finding such guys are slim.</p>
-
-<h3>Are you thinking about matrimonial websites then?</h3>
-
-<p>Well, most matrimonial websites are designed for general indian public and doesn’t suite Rajput community.</p>
-
-<p><strong>I even hacked a Rajput matrimonial website</strong> and have all the contacts downloaded on my disk. All crap. Most Fake. Contains Mostly Rajputs based out of Rajasthan. And my parents reject them straight away.</p>
-
-<p>If you want I can show these contacts/emails/ and their addresses and pics to you. I downloaded all content of this small website, contains both girls and boys data. It wasn’t hard to hack this website. A bit of SQL injection and I got logged in. Wrote a ruby script and downloaded all profiles and contacts.<br/>
-I did this just for fun. I didn’t cause any harm to that website though. I am not mentioning the name of the website because I don’t want to get in trouble.</p>
-
-<p>I try to keep my thinking simple. <strong>Everybody is chasing after what they find hard to get in life</strong>. I feel similar at times because I like challenges but if we both do the same thing, we’re never going to find someone worthy of us. Because <strong>It’s a paradox</strong>.</p>
-
-<p><strong>So I gave importance to you because I thought you deserve it.</strong> I don’t like playing ego games which people play… as I said earlier I&rsquo;m very straight forward person. Too straight-forward to appear as arrogant to strangers. But those who know me like me for who I am. I&rsquo;m mostly very sweet and humble. But your family didn&rsquo;t give me any importance to me. Which I definitely deserved.</p>
-
-<h3>Read a bit of astrology..</h3>
-
-<p>Astrology is right sometimes and gives useful insights on people</p>
-
-<p>If you believe in astrology(I used to not believe in astrology but then started), you can read following article. I am an Aries born person.</p>
-
-<p><a href="http://www.ask-oracle.com/sign-compatibility/aries-man-taurus-woman/">http://www.ask-oracle.com/sign-compatibility/aries-man-taurus-woman/</a></p>
-
-<p>And our <strong>Pandit Suresh Shastri told us that we are suitable for each other</strong>. He is very well known astrologer, based in Jaipur.
-That was also an important reason, My family liked this alliance as I mentioned earlier.</p>
-
-<h3>Why am I feeling hurt?</h3>
-
-<p>Probably It&rsquo;s my mistake that I sent those emails and all that. Being an entrepreneur it&rsquo;s a very normal thing for me to send emails. I didn&rsquo;t say anything bad in that.</p>
-
-<p>I do make mistakes and do silly things. I may even consider writing this post as silly. But then what&rsquo;s point of being too defensive all the time anyway. I&rsquo;m vulnerable and I trust people easily. Who is perfect anyway.</p>
-
-<p>This is how your family thinks:&ndash;</p>
-
-<p>The boy sent emails. He must be a bad boy. Or even &ldquo;Kyon piche pada hai?&rdquo;</p>
-
-<p>These are just plain prejudices and I hate prejudices. Your relative told us that your family lives in bangalore and thus are very modern people. What kind modernity is this, where people form wrong opinions about people without knowing or understanding them. <br/>
-Your family said the boy wants to meet the girl and we don’t like it. What’s there to not like about it. I didn’t say to meet you in private or something. I only meant to talk to you in front of your family and with permission of your family.<br/>
-You are a programmer and work in a company, and you probably interact with many people on daily basis. I don&rsquo;t see anything wrong in that and and I don&rsquo;t think I have done anything wrong.<br/>
-Is your family really think that way?
-I believe marriage is a big decision… it’s a matter of sharing your life with someone. The person I’m going to share my life with, I deserve to know her. I don’t want my marriage to happen in a lucky-draw style. It&rsquo;s 21st century and 2035 is first estimate of technological singularity.
-Do you really think that expressing yourself freely and honestly is bad?</p>
-
-<p>I am not perfect. I don’t claim to be. But I am proud of my abilities, character, personality, attitude and pretty much everything that I do and on people I have in my life(my family and friends). Most people are intellectually and creatively incapable of doing what I do. I should be proud. But I&rsquo;m not arrogant. You may find guys who have false attitude and ego and your family probably will like them. Looking for stability is good but it&rsquo;s not progression.</p>
-
-<p><strong>My teachers, family, friends and everybody else who knows me can vouch for my integrity and soundness of my character. They are all proud of me.</strong></p>
-
-<p><strong>My family is modern and totally cool. Modern in thinking and attitude. My mom is such a nice person that whoever I marry she&rsquo;ll forget her own mother.</strong></p>
-
-<p>&ldquo;If you don&rsquo;t know something, ask me. If you don&rsquo;t agree, argue with me but please don&rsquo;t judge silently&rdquo;&hellip; it&rsquo;s the line that I read/heard somewhere. fits perfectly here.</p>
-
-<h3>Why I wished you happy birthday and sent you friend request?</h3>
-
-<p><strong>My brother told me that you sent him friend request and he accepted it and then you unfriended him?!</strong></p>
-
-<p>So I thought, I should send you friend request. I thought may be there is something that you wanted to convey to me via my brother. I’m not sure about it though. That’s why I sent you friend request which you didn’t accept.</p>
-
-<p>And I wished you <strong>‘Happy Birthday’</strong> on your birthday.  I thought you already have 400+ friends on Facebook and on average 25% people write on walls on birthdays, which is 100+ people in your case, one message by me won’t hurt. I believe <strong>it is a polite and good thing to wish people if you know somebody’s birthday, it makes them feel special on their special day</strong> and so I wished.</p>
-
-<p><strong>In the End, I want to say &ldquo;thanks&rdquo; to you, because of you I got the domain name for my personal blog, on which you are reading this post right now.</strong></p>
-
-<p>I use Octopress for blogging. I hope you’ll like this blog.</p>
-
-<p>If you liked it please let me know. It looks better on iPad. I’m happy about it because it is the only good thing that has happened to me so far because of you.</p>
-
-<p>If you find anything hurtful in any manner in this post. I humbly apologise.</p>
-
-<p>I hope you&rsquo;ll find this post, which is even longer than some assays I wrote in exams :), as intellectual, pragmatic and sincere. Because that&rsquo;s the way I meant it to be.</p>
-
-<p>I think you are an intelligent person. And you&rsquo;ll be able to put things in right perspective.</p>
-
-<p>And if it indeed was your decision to reject me in the first place and not your family&rsquo;s, then take responsibility of your decisions. If your family had told us that &ldquo;our daughter thinks that he&rsquo;s not suitable for her&rdquo; then it wouldn&rsquo;t have been hurtful to me at all. Because then It&rsquo;s your choice and everybody has right to make choices for their own life.</p>
-
-<p>But I don&rsquo;t think you rejected me, because if you had, your family wouldn&rsquo;t have sent your relatives to meet me.</p>
-
-<p><blockquote><p>“Don&rsquo;t limit a child to your own learning, for she was born in another time.”</p><footer><strong>Rabindranath Tagore</strong></footer></blockquote></p>
-
-<p>I hope your all doubts/misunderstandings are cleared and you don&rsquo;t have any wrong perception about me.</p>
-
-<p>And thanks for reading this long post. I know it&rsquo;s hard to read that much. But we both are programmers and spend time reading APIs and documentations, So reading this post  shouldn&rsquo;t be a problem.</p>
-
-<p><code>sql droping doubts
-sql&gt; DROP TABLE doubts
-</code>
-If you have any queries, let me know.<br/>
-Promise, I’ll keep the answers short :)</p>
-
-<p>Wish you all the best<br/>
-Take care… Live long and Prosper \m/</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How I Got This Domain?]]></title>
-    <link href="http://www.rajrathore.com/how-i-got-this-domain/"/>
-    <updated>2014-04-23T15:26:37+05:30</updated>
-    <id>http://www.rajrathore.com/how-i-got-this-domain</id>
-    <content type="html"><![CDATA[<p>I needed to make a matrimonial bio-data and I thought it would be convenient for me as well as for them to view my bio-data online instead of opening email everytime to view my bio-data&hellip; So, I thought of setting up a small website and provide the url to them&hellip; also It allows me to make changes to it if asked for more information&hellip;</p>
-
-<p>I did a look up on Godaddy and&hellip; <strong>Voila!!</strong> <strong>rajrathore.com</strong> and <strong>rajrathore.me</strong> was available. <strong>Raj</strong> is a pretty common name in India and there are lots of <strong>Rathores</strong>&hellip; but I guess very few are programmers.. that increased my chances of getting this domain.</p>
-
-<!-- more -->
-
-
-<p>Surround your pullquote like this {" text to be quoted "}</p>
-
-<p>I registered the domain and took a template and filled it up with all the details and uploaded to the server, just in two hours&hellip; editing template &amp; adding information took some time, everything else was snappy.</p>
-
-<p>I never needed a bio-data, so I never set it up&hellip; and I think, I&rsquo;m never going to need one except for this one scenario&hellip;
-.. I&rsquo;ll make a nice well-designed/well-crafted profile someday&hellip;</p>
-
-<p>Bio-data is just summary of a person and I think a person&rsquo;s writing style also tells a lot about a person as well&hellip;</p>
-
-<p>Read my blogs and know my thinking, <br/>
-See my work and know my skills,<br/>
-Spend time with me and know me as a human being&hellip;<br/>
-Task simplified!!</p>
-
-<p>I&rsquo;m considering of writing more often and as it happens with other skills, more time you invest, better you become!</p>
-
-<p>Have a nice day!</p>
+<p>Have a nice day \m/</p>
 ]]></content>
   </entry>
   
