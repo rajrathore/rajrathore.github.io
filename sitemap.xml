@@ -11,11 +11,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.rajrathore.com/drop-table-doubts/</loc>
-    <lastmod>2014-07-08T12:04:54+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://www.rajrathore.com/renew-heroku-ssl-certificate-issued-by-godaddy/</loc>
     <lastmod>2014-07-05T09:16:32+05:30</lastmod>
     <priority>0.8</priority>
@@ -52,19 +47,19 @@
   </url>
   <url>
     <loc>http://www.rajrathore.com/</loc>
-    <lastmod>2014-11-02T18:31:56+05:30</lastmod>
+    <lastmod>2014-11-02T18:37:44+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://www.rajrathore.com/blog/archives/</loc>
-    <lastmod>2014-11-02T18:31:56+05:30</lastmod>
+    <lastmod>2014-11-02T18:37:44+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.rajrathore.com/posts/</loc>
-    <lastmod>2014-11-02T18:31:56+05:30</lastmod>
+    <lastmod>2014-11-02T18:37:44+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
