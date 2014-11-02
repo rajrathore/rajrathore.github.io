@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Opinion | Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/blog/categories/opinion/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-10-04T13:19:04+05:30</updated>
+  <updated>2014-11-02T18:29:15+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -39,11 +39,13 @@ And when you try to use it, It&rsquo;s full of flaws and mistakes&hellip; this i
 
 <p>MyGov dev team needs few such developers who challenge themselves and are exceptionally good. Most govt. professional just do what they must do and not what they should do. Ultimately they end up doing things which they shouldn&rsquo;t do. For example, what is the use of captcha when you can&rsquo;t even implement it well and user can&rsquo;t even signup. Internet connection in India is patchy, they should try to keep the webpage size under few kbs. If this website is intended to be used by public on regular basis then they should&rsquo;ve atleast optimized the website before lauching it.</p>
 
-<p>My advice to developer team of MyGov website: Remove that captcha from signup page. It&rsquo;s very irritating. Also you are asking users to choose a password which has special characters, numbers, capital and small letters&hellip; it&rsquo;s idiotic. It gives a pseudo feeling of security and make people fake believe in security when there is none. Your website is not even using SSL. I&rsquo;m afraid that on this website users' information is not safe. Optimize your website, improve your code. And try to hire few exceptionally good programmers to do the job and not the army of incompetent programmers.</p>
+<p>My advice to developer team of MyGov website: Remove that captcha from signup page. It&rsquo;s very irritating. Also you are asking users to choose a password which has special characters, numbers, capital and small letters&hellip; it&rsquo;s idiotic. It gives a pseudo feeling of security and make people fake believe in security when there is none. Your website is not even using SSL. I&rsquo;m afraid that on this website users&#8217; information is not safe. Optimize your website, improve your code. And try to hire few exceptionally good programmers to do the job and not the army of incompetent programmers.</p>
 
 <p><strong>The website is not even usable forget about security.</strong></p>
 
-<p><blockquote><p>&ldquo;It is amazing how much can be accomplished if no one cares who gets the credit.&rdquo;</p><footer><strong>John Wooden</strong></footer></blockquote></p>
+<p>{% blockquote John Wooden %}
+&ldquo;It is amazing how much can be accomplished if no one cares who gets the credit.&rdquo;
+{% endblockquote %}</p>
 
 <p>Thanks!</p>
 
@@ -73,7 +75,7 @@ I find these shows absurd.</p>
 
 <p>For me there is nothing good on tv, except for IPL. The only Indian TV shows I liked in recent times are &ldquo;Devon ke dev Mahadev&rdquo; &amp; &ldquo;Comedy Nights with Kapil&rdquo;.</p>
 
-<p>If you want my recommendation then please go ahead and watch following tv series, atleast they are interesting, have good script, exciting and if you try to be a filter and not a sponge then these shows will even teach you a lot about life, relationships, friendships, ethics and morality, courage etc&hellip; and they are really fun to watch :&ndash;</p>
+<p>If you want my recommendation then please go ahead and watch following tv series, atleast they are interesting, have good script, exciting and if you try to be a filter and not a sponge then these shows will even teach you a lot about life, relationships, friendships, ethics and morality, courage etc&hellip; and they are really fun to watch :-</p>
 
 <ul>
 <li><h4>Friends</h4></li>
@@ -83,7 +85,11 @@ I find these shows absurd.</p>
 </ul>
 
 
-<p>Surround your pullquote like this {" text to be quoted "}</p>
+<p>{% pullquote %}
+Sometimes I think
+&ldquo;Aadhi Indian public ka dimag toh in tv shows ne kharab kar diya h&hellip;&rdquo;
+and I  think Indian TV shows&#8217; quality is really deteriorating&hellip;  {&ldquo;Even Disney doesn&rsquo;t have any good shows for kids&hellip; I still remember shows like Duck tales, Talespin etc. &rdquo;} but now they are using too much effects and all.. but no good story. I think Disney should rerun old shows instead of these crappy shows which they are making for kids. Pogo has a nice show called &ldquo;Chota Bheem&rdquo; and they telecast this show all day, So not much for kids on TV also.
+{% endpullquote %}</p>
 
 <p>Please stop watching these illogical, idiotic shows because they do impact your brain and you&rsquo;ll realize it when you&rsquo;ll finish watching all 10 seasons of Friends and after that you&rsquo;ll hate Indian TV shows&hellip; particulary those which don&rsquo;t have anything decent to show.</p>
 ]]></content>
@@ -96,7 +102,7 @@ I find these shows absurd.</p>
     <id>http://www.rajrathore.com/why-i-voted-for-narendra-modi</id>
     <content type="html"><![CDATA[<p>It&rsquo;s election time in India and I did cast my vote on April 17 ( 3 days after my birthday ) and there are plenty who have opinion about Indian youth that &ldquo;Younger generation doesn&rsquo;t understand politics much&rdquo;</p>
 
-<p>I may or may not understand politics much but I think that politicians' speeches and work should be considered as their examination copies.</p>
+<p>I may or may not understand politics much but I think that politicians&#8217; speeches and work should be considered as their examination copies.</p>
 
 <!-- more -->
 
@@ -105,15 +111,20 @@ I find these shows absurd.</p>
 
 <p><strong>Rahul Gandhi:</strong> Thinks that people of India are fools or atleast his target audience is less educated. That is why in his speeches he tries to teach people or more appropriately to his party men surrounding him.
 I don&rsquo;t know If he knows what he&rsquo;s talking about&hellip; here is Cyrus Broacha&rsquo;s take on Rahul Gandhi&hellip;LOL!!
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/akCN9yKj3bY "></iframe></div></p>
+{% youtube akCN9yKj3bY %}</p>
 
-<p>Surround your pullquote like this {" text to be quoted "}</p>
+<p>{% pullquote %}
+<strong>Arvind Kejriwal:</strong> Thinks that people of India are &ldquo;Bechari Janta&rdquo; or &ldquo;AAM or chusa hua AAM admi&rdquo;. He resigned from a great opportunity which was given to him. {&ldquo;In trying to prove himself right, he proved those wrong who trusted him and voted for him&rdquo;} and then he resigned on a issue. I don&rsquo;t want to tell my opinion about every idea he has in mind, everytime&hellip; that&rsquo;s his referendum bullshit&hellip; I have other things to do&hellip;  We choose/trust government to do work for us&hellip;
+{% endpullquote %}</p>
 
-<p>Surround your pullquote like this {" text to be quoted "}</p>
+<p>{% pullquote %}
+<strong>Narendra Modi:</strong> Thinks that people of india have potential to make India shine on world canvas. He thinks that people of india are smart, intelligent and not bechara. If given a chance people can achieve incredible things. He favours entreprenuership and business&hellip; {&ldquo;If India has to grow, India needs something similar to Silicon Valley&rdquo;}..
+So far India is obsessed with jobs and govt. job psychology to the extreme level&hellip; His idea of minimum government, maximum governence is also really awesome approach..
+{% endpullquote %}</p>
 
 <blockquote><p>Governing a large country
 is like frying a small fish.
-You spoil it with too much poking. &mdash;Lao Tzu, Tao Te Ching</p></blockquote>
+You spoil it with too much poking. &ndash;Lao Tzu, Tao Te Ching</p></blockquote>
 
 <p>People have come up with statistics in favour or to oppose him, Oxford mathematician Peter Donnelly reveals the common mistakes humans make in interpreting statistics — and the devastating impact these errors can have on the outcome of criminal trials, watch this ted talk.</p>
 

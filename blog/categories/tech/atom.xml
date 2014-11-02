@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tech | Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-10-04T13:19:04+05:30</updated>
+  <updated>2014-11-02T18:29:15+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -31,25 +31,22 @@
 
 <p>After the certificate has been issued by godaddy, download certs for &lsquo;Nginx&rsquo; server. unzip the zipped file, cd into directory, and combine certificates.</p>
 
-<p><code>ruby
-cat 48bcdx31xxxx.crt sf_bundle-g2-g1.crt &gt; combined.crt
-</code></p>
+<pre><code class="ruby">cat 48bcdx31xxxx.crt sf_bundle-g2-g1.crt &gt; combined.crt
+</code></pre>
 
 <h3>Step 3: Update Certificate at Heroku SSL Endpoint</h3>
 
 <p>run certificate update command</p>
 
-<p><code>ruby
-heroku certs:update combined.crt server.key
-</code></p>
+<pre><code class="ruby">heroku certs:update combined.crt server.key
+</code></pre>
 
 <p>Confirm the changes by typing app_name.</p>
 
 <h3>Step 4: Check Certificate Info</h3>
 
-<p><code>ruby
-heroku certs:info --app=app_name
-</code></p>
+<pre><code class="ruby">heroku certs:info --app=app_name
+</code></pre>
 
 <h3>Step 5: Done!</h3>
 
@@ -69,7 +66,9 @@ heroku certs:info --app=app_name
 
 <p>The solution to this problem is either deploy your app online or allow localhost tunneling so that facebook can access it. I prefer localhost tunneling when working in my development environment.</p>
 
-<p>Surround your pullquote like this {" text to be quoted "}
+<p>{% pullquote %}
+I use <a href="https://ngrok.com/"><strong>ngrok</strong></a>. {&ldquo; ngrok securely exposes a local web server to the internet and capture all traffic for detailed inspection and replay &rdquo;} and it worked well with facebook.
+{% endpullquote %}
 <strong>ngrok</strong> is easy to use and it takes just 2 minutes to signup and expose your webserver. Sign up is not required but it doesn&rsquo;t take much time so I did.</p>
 
 <h2>Steps</h2>
@@ -90,17 +89,14 @@ heroku certs:info --app=app_name
 
 <p>in above command <strong>your_auth_token</strong> is your authentication token and <strong>port</strong> is the port which you want to expose.</p>
 
-<p>``` ruby ngrok <a href="https://ngrok.com/">https://ngrok.com/</a> link
-Tunnel Status                 online
+<pre><code class="ruby ngrok https://ngrok.com/ link ">Tunnel Status                 online
 Version                       1.6/1.5
-Forwarding                    <a href="http://9d322c2.ngrok.com">http://9d322c2.ngrok.com</a> &ndash;> 127.0.0.1:80
-Forwarding                    <a href="https://9d322c2.ngrok.com">https://9d322c2.ngrok.com</a> &ndash;> 127.0.0.1:80
-Web Interface                 127.0.0.1:4040</p>
-
-<h1>Conn                        0</h1>
-
-<p>Avg Conn Time                 0.00ms
-```</p>
+Forwarding                    http://9d322c2.ngrok.com -&gt; 127.0.0.1:80
+Forwarding                    https://9d322c2.ngrok.com -&gt; 127.0.0.1:80
+Web Interface                 127.0.0.1:4040
+# Conn                        0
+Avg Conn Time                 0.00ms
+</code></pre>
 
 <p>where <a href="http://9d322c2.ngrok.com">http://9d322c2.ngrok.com</a> is the url which you can use to access your local web server. I have closed this tunnel, So you won&rsquo;t able to access this url, it&rsquo;s just for example purpose here.</p>
 

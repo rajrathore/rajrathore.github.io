@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Books | Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/blog/categories/books/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-10-04T13:19:04+05:30</updated>
+  <updated>2014-11-02T18:29:15+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.rajrathore.com/a-note-on-perks-of-being-a-wallflower</id>
     <content type="html"><![CDATA[<p>I spend a lot of time on computer and not so much with books. I do read blogs, articles and even documentations of software but not novels. But this week I read <strong>&ldquo;The Perks of being a Wallflower&rdquo;</strong>. The last novel which I read was <strong>The Alchemist</strong>. Written by <strong>Stephen Chbosky</strong>, <strong>&ldquo;The Perks of being a Wallflower&rdquo;</strong> is really a fantastic book.</p>
 
-<p><img src="/images/posts/the-perks-of-being-a-wallflower.jpg" width="600" height="450" title="&lsquo;The Perks of being a Wallflower Cover&rsquo; &lsquo;The Perks of being a Wallflower Cover&rsquo;" ></p>
+<p>{% img /images/posts/the-perks-of-being-a-wallflower.jpg 600 450 &lsquo;The Perks of being a Wallflower Cover&rsquo; &lsquo;The Perks of being a Wallflower Cover&rsquo; %}</p>
 
 <p>I think I can relate to charlie somewhere. I think a lot many can relate to him. The small little nitty gritty details about people which you notice and don&rsquo;t write, is written in this book. Most people are too obsessed with themselves and their life that they ignore what&rsquo;s happening around them.</p>
 
@@ -39,26 +39,66 @@
 
 <p>I probably quote the whole book but still I&rsquo;m mentioning some quotes below.</p>
 
-<h3>Few Quotes from &ldquo;The Perks of being a Wallflower&rdquo; which I admire:&ndash;</h3>
+<h3>Few Quotes from &ldquo;The Perks of being a Wallflower&rdquo; which I admire:-</h3>
 
-<p><blockquote><p>I just think it&rsquo;s bad when a boy looks at a girl and thinks that the way he sees the girl is better than the girl actually is. And I think it&rsquo;s bad when the most honest way a boy can look at a girl is through a camera. It&rsquo;s very hard for me to see Sam feel better about herself just because an older boy sees her that way.</p><footer><strong>Charlie</strong></footer></blockquote><br/>
-<blockquote><p>I just hope I remember to tell my kids that they are as happy as I look in my old photographs.</p><footer><strong>Charlie</strong></footer></blockquote> <br/>
-<blockquote><p>So, this is my life. And I want you to know that I am both happy and sad and I&rsquo;m still trying to figure out how that could be.</p><footer><strong>Charlie</strong></footer></blockquote>
-<blockquote><p>Things change. And friends leave. Life doesn&rsquo;t stop for anybody.</p><footer><strong>Charlie</strong></footer></blockquote></p>
+<p>{% blockquote Charlie %}
+I just think it&rsquo;s bad when a boy looks at a girl and thinks that the way he sees the girl is better than the girl actually is. And I think it&rsquo;s bad when the most honest way a boy can look at a girl is through a camera. It&rsquo;s very hard for me to see Sam feel better about herself just because an older boy sees her that way.
+{% endblockquote %}<br/>
+{% blockquote Charlie %}
+I just hope I remember to tell my kids that they are as happy as I look in my old photographs.
+{% endblockquote %} <br/>
+{% blockquote Charlie %}
+So, this is my life. And I want you to know that I am both happy and sad and I&rsquo;m still trying to figure out how that could be.
+{% endblockquote %}
+{% blockquote Charlie %}
+Things change. And friends leave. Life doesn&rsquo;t stop for anybody.
+{% endblockquote %}</p>
 
-<p><blockquote><p>Charlie, We accept the love we think we deserve.</p><footer><strong>Bill</strong></footer></blockquote>
-<blockquote><p>I think that if I ever have kids, and they are upset, I won&rsquo;t tell them that people are starving in China or anything like that because it wouldn&rsquo;t change the fact that they were upset. And even if somebody else has it much worse, that doesn&rsquo;t really change the fact that you have what you have.</p><footer><strong>Charlie</strong></footer></blockquote>
-<blockquote><p>Sometimes people use thought to not participate in life.</p><footer><strong>Bill</strong></footer></blockquote>
-<blockquote><p>Be skeptical ablout this one. It&rsquo;s a great book. But try to be a filter, not a sponge.</p><footer><strong>Bill</strong></footer></blockquote>
-<blockquote><p>“We didn&rsquo;t talk about anything heavy or light. We were just there together. And that was enough”</p><footer><strong>Charlie</strong></footer></blockquote>
-<blockquote><p>And I guess I realized at that moment that I really did love her. Because there was nothing to gain, and that didn&rsquo;t matter.</p><footer><strong>Charlie</strong></footer></blockquote>
-<blockquote><p>I just want you to know that you’re very special… and the only reason I&rsquo;m telling you is that I don’t know if anyone else ever has.</p><footer><strong>Bill</strong></footer></blockquote>
-<blockquote><p>If somebody likes me, I want them to like the real me, not what they think I am. And I don&rsquo;t want them to carry it around inside. I want them to show me, so I can feel it, too. I want them to be able to do whatever they want around me.</p><footer><strong>Sam</strong></footer></blockquote>
-<blockquote><p>Maybe it&rsquo;s good to put things in perspective, but sometimes, I think that the only perspective is to really be there. Like Sam Said. Because it&rsquo;s okay to feel things. And be who you are about them.</p><footer><strong>Charlie</strong></footer></blockquote></p>
+<p>{% blockquote Bill %}
+Charlie, We accept the love we think we deserve.
+{% endblockquote %}
+{% blockquote Charlie %}
+I think that if I ever have kids, and they are upset, I won&rsquo;t tell them that people are starving in China or anything like that because it wouldn&rsquo;t change the fact that they were upset. And even if somebody else has it much worse, that doesn&rsquo;t really change the fact that you have what you have.
+{% endblockquote %}
+{% blockquote Bill %}
+Sometimes people use thought to not participate in life.
+{% endblockquote %}
+{% blockquote Bill %}
+Be skeptical ablout this one. It&rsquo;s a great book. But try to be a filter, not a sponge.
+{% endblockquote %}
+{% blockquote Charlie %}
+“We didn&rsquo;t talk about anything heavy or light. We were just there together. And that was enough”
+{% endblockquote %}
+{% blockquote Charlie %}
+And I guess I realized at that moment that I really did love her. Because there was nothing to gain, and that didn&rsquo;t matter.
+{% endblockquote %}
+{% blockquote Bill %}
+I just want you to know that you’re very special… and the only reason I&rsquo;m telling you is that I don’t know if anyone else ever has.
+{% endblockquote %}
+{% blockquote Sam %}
+If somebody likes me, I want them to like the real me, not what they think I am. And I don&rsquo;t want them to carry it around inside. I want them to show me, so I can feel it, too. I want them to be able to do whatever they want around me.
+{% endblockquote %}
+{% blockquote Charlie %}
+Maybe it&rsquo;s good to put things in perspective, but sometimes, I think that the only perspective is to really be there. Like Sam Said. Because it&rsquo;s okay to feel things. And be who you are about them.
+{% endblockquote %}</p>
 
 <h3>Charlie&rsquo;s mixtape</h3>
 
-<p><blockquote><p>&ndash;   Asleep by the Smiths<br/>&ndash;   Vapour Trail by Ride<br/>&ndash;   Scarborough Fair by Simon &amp; Garfunkel<br/>&ndash;   A Whiter Shade of Pale by Procol Harum<br/>&ndash;   Dear Prudence by the Beatles<br/>&ndash;   Gypsy by Suzanne Vega<br/>&ndash;   Nights in White Satin by the Moody Blues<br/>&ndash;   Daydream by Smashing Pumpkins<br/>&ndash;   Dusk by Genesis (before Phil Collins was even in the band!)<br/>&ndash;   MLK by U2<br/>&ndash;   Blackbird by the Beatles<br/>&ndash;   Landslide by Fleetwood Mac<br/>&ndash;   Asleep by the Smiths (again!)</p><footer><strong>Charlie&rsquo;s mixtape</strong></footer></blockquote></p>
+<p>{% blockquote Charlie&rsquo;s mixtape %}
+-   Asleep by the Smiths
+-   Vapour Trail by Ride
+-   Scarborough Fair by Simon &amp; Garfunkel
+-   A Whiter Shade of Pale by Procol Harum
+-   Dear Prudence by the Beatles
+-   Gypsy by Suzanne Vega
+-   Nights in White Satin by the Moody Blues
+-   Daydream by Smashing Pumpkins
+-   Dusk by Genesis (before Phil Collins was even in the band!)
+-   MLK by U2
+-   Blackbird by the Beatles
+-   Landslide by Fleetwood Mac
+-   Asleep by the Smiths (again!)
+{% endblockquote %}</p>
 
 <p>Going to download these songs and listen. I think I&rsquo;ll read this book again sometime or whenever I want to feel good about things or understand things a little better.</p>
 

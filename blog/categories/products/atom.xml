@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Products | Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/blog/categories/products/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-10-04T13:19:04+05:30</updated>
+  <updated>2014-11-02T18:29:15+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.rajrathore.com/bought-hitachi-reidan-ahot-and-cold-ac</id>
     <content type="html"><![CDATA[<p>Yesterday we bought a new air conditioner and it&rsquo;s a Hitachi Ace Reidan 1.5 Ton Split AC. We bought this model because it&rsquo;s a hot &amp; cold air conditioner and we already have a Hitachi Ace Cutout which performs well.</p>
 
-<p><img src="/images/posts/hitachi_ace_reidan.jpg" width="600" height="250" title="&lsquo;Hitachi Ace Reidan&rsquo; &lsquo;Hitachi Ace Reidan&rsquo;" ></p>
+<p>{% img /images/posts/hitachi_ace_reidan.jpg 600 250 &lsquo;Hitachi Ace Reidan&rsquo; &lsquo;Hitachi Ace Reidan&rsquo; %}</p>
 
 <!-- more -->
 
@@ -32,7 +32,7 @@
 <p>The difference in favor of ace cutout is that it has a energy star rating of 5 while Ace Reidan is still unrated probably because it&rsquo;s a new model.</p>
 
 <p>But It seems like there is not much difference between the two ACs.
-Ace Reidan with stabilizer, installation and a bit of electricity fitting, cost us around 48,500/&ndash; INR. Ace cutout costs a few thousand less.</p>
+Ace Reidan with stabilizer, installation and a bit of electricity fitting, cost us around 48,500/- INR. Ace cutout costs a few thousand less.</p>
 
 <p>Winter is coming!</p>
 ]]></content>

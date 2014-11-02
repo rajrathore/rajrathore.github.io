@@ -4,7 +4,7 @@
   <title><![CDATA[Raj Rathore]]></title>
   <link href="http://www.rajrathore.com/atom.xml" rel="self"/>
   <link href="http://www.rajrathore.com/"/>
-  <updated>2014-10-04T13:19:04+05:30</updated>
+  <updated>2014-11-02T18:05:50+05:30</updated>
   <id>http://www.rajrathore.com/</id>
   <author>
     <name><![CDATA[Raj Rathore]]></name>
@@ -13,7 +13,6 @@
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
-    
   <entry>
     <title type="html"><![CDATA[MyGov: Nice Initiative but Implementation Sucks!]]></title>
     <link href="http://www.rajrathore.com/mygov-nice-initiative-but-implementation-sucks/"/>
@@ -58,9 +57,7 @@ And when you try to use it, It&rsquo;s full of flaws and mistakes&hellip; this i
 
 ]]></content>
   </entry>
-    
   
-    
   <entry>
     <title type="html"><![CDATA[Uncertain Observer]]></title>
     <link href="http://www.rajrathore.com/uncertain-observer/"/>
@@ -87,12 +84,23 @@ Schrödinger angrily replies, &#8220;Well he is now.&rdquo;</p>
 ]</p>
 ]]></content>
   </entry>
-    
   
-    
-    
+  <entry>
+    <title type="html"><![CDATA[DROP TABLE Doubts; Clearing Out All the Misunderstandings]]></title>
+    <link href="http://www.rajrathore.com/drop-table-doubts/"/>
+    <updated>2014-07-08T12:04:54+05:30</updated>
+    <id>http://www.rajrathore.com/drop-table-doubts</id>
+    <content type="html"><![CDATA[<ul>
+<li>[Note: This post is only accessible to the people who know direct url to this post, that&rsquo;s only you,  and it&rsquo;s non indexable in Google and not listed in this blog&rsquo;s archive or linked anywhere]</li>
+</ul>
+
+
+<p><strong>Update:</strong> Analytics data shows that you&rsquo;ve visited this page and read this post a few times and may have forwarded it. And considering the personal nature of this post, I&rsquo;m removing this post&rsquo;s content.</p>
+
+<p>Have a nice day!!</p>
+]]></content>
+  </entry>
   
-    
   <entry>
     <title type="html"><![CDATA[Renew Heroku SSL Certificate by Godaddy]]></title>
     <link href="http://www.rajrathore.com/renew-heroku-ssl-certificate-issued-by-godaddy/"/>
@@ -139,9 +147,7 @@ Schrödinger angrily replies, &#8220;Well he is now.&rdquo;</p>
 <p>Done! and after few seconds app is running on previous ssl endpoint url. So, No need to update dns.</p>
 ]]></content>
   </entry>
-    
   
-    
   <entry>
     <title type="html"><![CDATA[A Note on the Perks of Being a Wallflower]]></title>
     <link href="http://www.rajrathore.com/a-note-on-perks-of-being-a-wallflower/"/>
@@ -229,9 +235,7 @@ Schrödinger angrily replies, &#8220;Well he is now.&rdquo;</p>
 <p>Well done, <strong>Stephen Chbosky</strong>. Thanks!</p>
 ]]></content>
   </entry>
-    
   
-    
   <entry>
     <title type="html"><![CDATA[Bought Hitachi Ace Reidan Hot &amp; Cold AC]]></title>
     <link href="http://www.rajrathore.com/bought-hitachi-reidan-ahot-and-cold-ac/"/>
@@ -256,9 +260,7 @@ Ace Reidan with stabilizer, installation and a bit of electricity fitting, cost 
 <p>Winter is coming!</p>
 ]]></content>
   </entry>
-    
   
-    
   <entry>
     <title type="html"><![CDATA[Localhost Tunneling, Working With Facebook Open Graph]]></title>
     <link href="http://www.rajrathore.com/localhost-tunneling-working-with-facebook-open-graph/"/>
@@ -316,9 +318,7 @@ I use <a href="https://ngrok.com/"><strong>ngrok</strong></a>. ngrok securely ex
 <p>Thanks for reading.</p>
 ]]></content>
   </entry>
-    
   
-    
   <entry>
     <title type="html"><![CDATA[What Happened to Indian TV Shows?]]></title>
     <link href="http://www.rajrathore.com/what-happened-to-indian-tv-shows/"/>
@@ -354,9 +354,7 @@ and I  think Indian TV shows&#8217; quality is really deteriorating&hellip;  Eve
 <p>Please stop watching these illogical, idiotic shows because they do impact your brain and you&rsquo;ll realize it when you&rsquo;ll finish watching all 10 seasons of Friends and after that you&rsquo;ll hate Indian TV shows&hellip; particulary those which don&rsquo;t have anything decent to show.</p>
 ]]></content>
   </entry>
-    
   
-    
   <entry>
     <title type="html"><![CDATA[How I Got This Domain?]]></title>
     <link href="http://www.rajrathore.com/how-i-got-this-domain/"/>
@@ -390,9 +388,7 @@ Task simplified!!</p>
 <p>Have a nice day!</p>
 ]]></content>
   </entry>
-    
   
-    
   <entry>
     <title type="html"><![CDATA[Why I Voted for Narendra Modi?]]></title>
     <link href="http://www.rajrathore.com/why-i-voted-for-narendra-modi/"/>
@@ -455,6 +451,5 @@ I think it&rsquo;s more of the responsibility of the State Government and local 
 <p>What did you think before voting and whom did you choose? and if you are going to vote.. who are you going to choose and why?</p>
 ]]></content>
   </entry>
-    
   
 </feed>
